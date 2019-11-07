@@ -4,7 +4,6 @@ require "bundler/setup"
 Bundler.require
 
 DARKEN_AMT = 10
-LIGHTEN_AMT = 10
 
 def hex_to_dec_rgb(hex)
   Chroma.paint(hex.to_s).to_rgb.scan(/\d+/).map { |d| d.to_i / 255.0 }
@@ -12,10 +11,6 @@ end
 
 def darken(hex, amt = DARKEN_AMT)
   Chroma.paint(hex.to_s).darken(amt)
-end
-
-def lighten(hex, amt = LIGHTEN_AMT)
-  Chroma.paint(hex.to_s).lighten(amt)
 end
 
 palette = {}
@@ -49,14 +44,14 @@ ansis = {
   "15" => hex_to_dec_rgb(palette[:light0_hex]),
   "background" => hex_to_dec_rgb(palette[:dark0_hex]),
   "badge" => hex_to_dec_rgb(palette[:bright_orange_hex]),
-  "bold" => hex_to_dec_rgb(lighten(palette[:light0_hex])),
-  "cursor" => hex_to_dec_rgb(palette[:light0_hex]),
+  "bold" => hex_to_dec_rgb(palette[:light0_hex]),
+  "cursor" => hex_to_dec_rgb(palette[:light1_hex]),
   "cursor_guide" => hex_to_dec_rgb(palette[:dark1_hex]),
   "cursor_text" => hex_to_dec_rgb(palette[:dark0_hex]),
-  "foreground" => hex_to_dec_rgb(palette[:light0_hex]),
+  "foreground" => hex_to_dec_rgb(palette[:light1_hex]),
   "link" => hex_to_dec_rgb(palette[:bright_orange_hex]),
   "selected_text" => hex_to_dec_rgb(palette[:dark3_hex]),
-  "selection" => hex_to_dec_rgb(palette[:light0_hex])
+  "selection" => hex_to_dec_rgb(palette[:light1_hex])
 }
 
 

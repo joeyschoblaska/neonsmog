@@ -93,8 +93,8 @@ let s:gb.dark4 = ['#767676', 243]
 
 let s:gb.gray = ['#8A8A8A', 245]
 
-let s:gb.light0 = ['#FFFFAF', 229]
-let s:gb.light1 = ['#FFD7AF', 223]
+let s:gb.light0 = ['#EEEEEE', 255]
+let s:gb.light1 = ['#DADADA', 253]
 let s:gb.light2 = ['#BCBCBC', 250]
 let s:gb.light3 = ['#A8A8A8', 248]
 let s:gb.light4 = ['#949494', 246]
