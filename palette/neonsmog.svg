@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <g id="neonsmog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bright_orange" transform="translate(840.000000, 160.000000)">
-            <rect id="bright_orange_hex" fill="#FE8019" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_orange_hex" fill="#FF8700" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="30.9936523" y="37">bright_orange</tspan>
             </text>
@@ -14,7 +14,7 @@
             </text>
         </g>
         <g id="bright_aqua" transform="translate(700.000000, 160.000000)">
-            <rect id="bright_aqua_hex" fill="#8EC07C" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_aqua_hex" fill="#87AF87" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="36.9946289" y="37">bright_aqua</tspan>
             </text>
@@ -23,7 +23,7 @@
             </text>
         </g>
         <g id="bright_purple" transform="translate(560.000000, 160.000000)">
-            <rect id="bright_purple_hex" fill="#D3869B" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_purple_hex" fill="#D787AF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="30.9936523" y="37">bright_purple</tspan>
             </text>
@@ -32,7 +32,7 @@
             </text>
         </g>
         <g id="bright_blue" transform="translate(420.000000, 160.000000)">
-            <rect id="bright_blue_hex" fill="#83A598" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_blue_hex" fill="#87AFAF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="36.9946289" y="37">bright_blue</tspan>
             </text>
@@ -41,7 +41,7 @@
             </text>
         </g>
         <g id="bright_yellow" transform="translate(280.000000, 160.000000)">
-            <rect id="bright_yellow_hex" fill="#FABD2F" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_yellow_hex" fill="#FFAF00" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="30.9936523" y="37">bright_yellow</tspan>
             </text>
@@ -50,7 +50,7 @@
             </text>
         </g>
         <g id="bright_green" transform="translate(140.000000, 160.000000)">
-            <rect id="bright_green_hex" fill="#B8BB26" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_green_hex" fill="#AFAF00" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="33.9941406" y="37">bright_green</tspan>
             </text>
@@ -59,7 +59,7 @@
             </text>
         </g>
         <g id="bright_red" transform="translate(0.000000, 160.000000)">
-            <rect id="bright_red_hex" fill="#FB4934" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_red_hex" fill="#D75F5F" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="39.9951172" y="37">bright_red</tspan>
             </text>
@@ -68,7 +68,7 @@
             </text>
         </g>
         <g id="light4" transform="translate(560.000000, 80.000000)">
-            <rect id="light4_hex" fill="#A89984" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="light4_hex" fill="#949494" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="51.9970703" y="37">light4</tspan>
             </text>
@@ -77,7 +77,7 @@
             </text>
         </g>
         <g id="light3" transform="translate(420.000000, 80.000000)">
-            <rect id="light3_hex" fill="#BDAE93" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="light3_hex" fill="#A8A8A8" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="51.9970703" y="37">light3</tspan>
             </text>
@@ -86,7 +86,7 @@
             </text>
         </g>
         <g id="light2" transform="translate(280.000000, 80.000000)">
-            <rect id="light2_hex" fill="#D5C4A1" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="light2_hex" fill="#BCBCBC" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="51.9970703" y="37">light2</tspan>
             </text>
@@ -95,7 +95,7 @@
             </text>
         </g>
         <g id="light1" transform="translate(140.000000, 80.000000)">
-            <rect id="light1_hex" fill="#EBDBB2" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="light1_hex" fill="#FFD7AF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="51.9970703" y="37">light1</tspan>
             </text>
@@ -104,7 +104,7 @@
             </text>
         </g>
         <g id="light0" transform="translate(0.000000, 80.000000)">
-            <rect id="light0_hex" fill="#FBF1C7" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="light0_hex" fill="#FFFFAF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="51.9970703" y="37">light0</tspan>
             </text>
@@ -113,7 +113,7 @@
             </text>
         </g>
         <g id="gray" transform="translate(700.000000, 0.000000)">
-            <rect id="gray_hex" fill="#928374" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="gray_hex" fill="#8A8A8A" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#FFFFFF">
                 <tspan x="57.9980469" y="37">gray</tspan>
             </text>
@@ -122,7 +122,7 @@
             </text>
         </g>
         <g id="dark4" transform="translate(560.000000, 0.000000)">
-            <rect id="dark4_hex" fill="#7C6F64" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="dark4_hex" fill="#767676" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#FFFFFF">
                 <tspan x="54.9975586" y="37">dark4</tspan>
             </text>
@@ -131,7 +131,7 @@
             </text>
         </g>
         <g id="dark3" transform="translate(420.000000, 0.000000)">
-            <rect id="dark3_hex" fill="#665C54" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="dark3_hex" fill="#626262" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#FFFFFF">
                 <tspan x="54.9975586" y="37">dark3</tspan>
             </text>
@@ -140,7 +140,7 @@
             </text>
         </g>
         <g id="dark2" transform="translate(280.000000, 0.000000)">
-            <rect id="dark2_hex" fill="#504945" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="dark2_hex" fill="#4E4E4E" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#FFFFFF">
                 <tspan x="54.9975586" y="37">dark2</tspan>
             </text>
@@ -149,7 +149,7 @@
             </text>
         </g>
         <g id="dark1" transform="translate(140.000000, 0.000000)">
-            <rect id="dark1_hex" fill="#3C3836" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="dark1_hex" fill="#3A3A3A" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#FFFFFF">
                 <tspan x="54.9975586" y="37">dark1</tspan>
             </text>
@@ -158,12 +158,12 @@
             </text>
         </g>
         <g id="dark0">
-            <rect id="dark0_hex" fill="#282828" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="dark0_hex" fill="#121212" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#FFFFFF">
                 <tspan x="54.9975586" y="37">dark0</tspan>
             </text>
             <text id="dark0_i" font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#FFFFFF">
-                <tspan x="60.9985352" y="51">235</tspan>
+                <tspan x="60.9985352" y="51">233</tspan>
             </text>
         </g>
     </g>
