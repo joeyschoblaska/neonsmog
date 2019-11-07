@@ -99,12 +99,12 @@ let s:gb.light2 = ['#BCBCBC', 250]
 let s:gb.light3 = ['#A8A8A8', 248]
 let s:gb.light4 = ['#949494', 246]
 
-let s:gb.bright_red    = ['#D70000', 160]
+let s:gb.bright_red    = ['#FF005F', 197]
 let s:gb.bright_green  = ['#AFD700', 148]
 let s:gb.bright_yellow = ['#FFAF00', 214]
 let s:gb.bright_blue   = ['#5FD7FF', 81]
 let s:gb.bright_purple = ['#D787D7', 176]
-let s:gb.bright_aqua   = ['#87D7AF', 115]
+let s:gb.bright_aqua   = ['#87D7D7', 116]
 let s:gb.bright_orange = ['#FF8700', 208]
 
 " Setup Emphasis:
