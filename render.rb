@@ -3,7 +3,7 @@ require "bundler/setup"
 
 Bundler.require
 
-DARKEN_AMT = 10
+DARKEN_AMT = 5
 
 def hex_to_dec_rgb(hex)
   Chroma.paint(hex.to_s).to_rgb.scan(/\d+/).map { |d| d.to_i / 255.0 }

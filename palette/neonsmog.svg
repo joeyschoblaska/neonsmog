@@ -14,30 +14,30 @@
             </text>
         </g>
         <g id="bright_aqua" transform="translate(700.000000, 160.000000)">
-            <rect id="bright_aqua_hex" fill="#87AF87" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_aqua_hex" fill="#87D7AF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="36.9946289" y="37">bright_aqua</tspan>
             </text>
             <text id="bright_aqua_i" font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
-                <tspan x="60.9985352" y="51">108</tspan>
+                <tspan x="60.9985352" y="51">115</tspan>
             </text>
         </g>
         <g id="bright_purple" transform="translate(560.000000, 160.000000)">
-            <rect id="bright_purple_hex" fill="#D787AF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_purple_hex" fill="#D787D7" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="30.9936523" y="37">bright_purple</tspan>
             </text>
             <text id="bright_purple_i" font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
-                <tspan x="60.9985352" y="51">175</tspan>
+                <tspan x="60.9985352" y="51">176</tspan>
             </text>
         </g>
         <g id="bright_blue" transform="translate(420.000000, 160.000000)">
-            <rect id="bright_blue_hex" fill="#87AFAF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_blue_hex" fill="#5FD7FF" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="36.9946289" y="37">bright_blue</tspan>
             </text>
             <text id="bright_blue_i" font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
-                <tspan x="60.9985352" y="51">109</tspan>
+                <tspan x="63.9990234" y="51">81</tspan>
             </text>
         </g>
         <g id="bright_yellow" transform="translate(280.000000, 160.000000)">
@@ -50,21 +50,21 @@
             </text>
         </g>
         <g id="bright_green" transform="translate(140.000000, 160.000000)">
-            <rect id="bright_green_hex" fill="#AFAF00" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_green_hex" fill="#AFD700" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="33.9941406" y="37">bright_green</tspan>
             </text>
             <text id="bright_green_i" font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
-                <tspan x="60.9985352" y="51">142</tspan>
+                <tspan x="60.9985352" y="51">148</tspan>
             </text>
         </g>
         <g id="bright_red" transform="translate(0.000000, 160.000000)">
-            <rect id="bright_red_hex" fill="#D75F5F" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_red_hex" fill="#D70000" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="39.9951172" y="37">bright_red</tspan>
             </text>
             <text id="bright_red_i" font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
-                <tspan x="60.9985352" y="51">167</tspan>
+                <tspan x="60.9985352" y="51">160</tspan>
             </text>
         </g>
         <g id="light4" transform="translate(560.000000, 80.000000)">
