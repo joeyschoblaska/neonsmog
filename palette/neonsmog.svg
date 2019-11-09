@@ -32,7 +32,7 @@
             </text>
         </g>
         <g id="bright_blue" transform="translate(420.000000, 160.000000)">
-            <rect id="bright_blue_hex" fill="#78B69E" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
+            <rect id="bright_blue_hex" fill="#7DC6B3" fill-rule="nonzero" x="0" y="0" width="140" height="80"></rect>
             <text font-family="DroidSansMonoSlashed, Droid Sans Mono Slashed" font-size="10" font-weight="normal" fill="#282828">
                 <tspan x="36.9946289" y="37">bright_blue</tspan>
             </text>

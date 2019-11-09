@@ -1,6 +1,6 @@
 " -----------------------------------------------------------------------------
 " File: neonsmog.vim
-" Description: A cyberpunk re-skin of the gruvbox-dark VIM theme.
+" Description: A high contrast tweak of the gruvbox-dark theme.
 " Source: https://github.com/joeyschoblaska/neonsmog
 " Original author: morhetz <morhetz@gmail.com>
 " Gruvbox source: https://github.com/morhetz/gruvbox
@@ -102,7 +102,7 @@ let s:gb.light4 = ['#B8AB9A', 246]
 let s:gb.bright_red    = ['#F73F29', 167]
 let s:gb.bright_green  = ['#C2C521', 142]
 let s:gb.bright_yellow = ['#F9BA26', 214]
-let s:gb.bright_blue   = ['#78B69E', 109]
+let s:gb.bright_blue   = ['#7DC6B3', 109]
 let s:gb.bright_purple = ['#E5829D', 175]
 let s:gb.bright_aqua   = ['#97D381', 108]
 let s:gb.bright_orange = ['#FC7B12', 208]
