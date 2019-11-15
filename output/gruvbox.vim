@@ -1,5 +1,5 @@
 " -----------------------------------------------------------------------------
-" File: {{name}}.vim
+" File: gruvbox.vim
 " Source: https://github.com/joeyschoblaska/colorschemes
 " Original author: morhetz <morhetz@gmail.com>
 " Gruvbox source: https://github.com/morhetz/gruvbox
@@ -84,27 +84,27 @@ let s:is_dark=(&background == 'dark')
 let s:gb = {}
 
 " fill it with absolute colors
-let s:gb.dark0 = ['{{dark0_hex}}', {{dark0_i}}]
-let s:gb.dark1 = ['{{dark1_hex}}', {{dark1_i}}]
-let s:gb.dark2 = ['{{dark2_hex}}', {{dark2_i}}]
-let s:gb.dark3 = ['{{dark3_hex}}', {{dark3_i}}]
-let s:gb.dark4 = ['{{dark4_hex}}', {{dark4_i}}]
+let s:gb.dark0 = ['#1D2021', 234]
+let s:gb.dark1 = ['#3C3836', 237]
+let s:gb.dark2 = ['#504945', 239]
+let s:gb.dark3 = ['#665C54', 241]
+let s:gb.dark4 = ['#7C6F64', 243]
 
-let s:gb.gray = ['{{gray_hex}}', {{gray_i}}]
+let s:gb.gray = ['#928374', 245]
 
-let s:gb.light0 = ['{{light0_hex}}', {{light0_i}}]
-let s:gb.light1 = ['{{light1_hex}}', {{light1_i}}]
-let s:gb.light2 = ['{{light2_hex}}', {{light2_i}}]
-let s:gb.light3 = ['{{light3_hex}}', {{light3_i}}]
-let s:gb.light4 = ['{{light4_hex}}', {{light4_i}}]
+let s:gb.light0 = ['#FBF1C7', 229]
+let s:gb.light1 = ['#EBDBB2', 223]
+let s:gb.light2 = ['#D5C4A1', 250]
+let s:gb.light3 = ['#BDAE93', 248]
+let s:gb.light4 = ['#A89984', 246]
 
-let s:gb.bright_red    = ['{{bright_red_hex}}', {{bright_red_i}}]
-let s:gb.bright_green  = ['{{bright_green_hex}}', {{bright_green_i}}]
-let s:gb.bright_yellow = ['{{bright_yellow_hex}}', {{bright_yellow_i}}]
-let s:gb.bright_blue   = ['{{bright_blue_hex}}', {{bright_blue_i}}]
-let s:gb.bright_purple = ['{{bright_purple_hex}}', {{bright_purple_i}}]
-let s:gb.bright_aqua   = ['{{bright_aqua_hex}}', {{bright_aqua_i}}]
-let s:gb.bright_orange = ['{{bright_orange_hex}}', {{bright_orange_i}}]
+let s:gb.bright_red    = ['#FB4934', 167]
+let s:gb.bright_green  = ['#B8BB26', 142]
+let s:gb.bright_yellow = ['#FABD2F', 214]
+let s:gb.bright_blue   = ['#83A598', 109]
+let s:gb.bright_purple = ['#D3869B', 175]
+let s:gb.bright_aqua   = ['#8EC07C', 108]
+let s:gb.bright_orange = ['#FE8019', 208]
 
 " Setup Emphasis:
 

@@ -1,7 +1,6 @@
 " -----------------------------------------------------------------------------
 " File: neonsmog.vim
-" Description: A high contrast tweak of the gruvbox-dark theme.
-" Source: https://github.com/joeyschoblaska/neonsmog
+" Source: https://github.com/joeyschoblaska/colorschemes
 " Original author: morhetz <morhetz@gmail.com>
 " Gruvbox source: https://github.com/morhetz/gruvbox
 " -----------------------------------------------------------------------------
