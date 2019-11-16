@@ -1,9 +1,19 @@
-## neonsmog
-A high contrast tweak of the gruvbox-dark theme. For [VIM](https://raw.githubusercontent.com/joeyschoblaska/colorschemes/master/output/neonsmog.vim) and [iTerm 2](https://raw.githubusercontent.com/joeyschoblaska/colorschemes/master/output/neonsmog.itermcolors).
-
+## gruvbox
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joeyschoblaska/colorschemes/master/examples/neonsmog.png">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/gruvbox.svg">
+</p>
+
+## neonsmog
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/neonsmog.svg">
 </p>
 
 ## nightowl
-For [VIM](https://raw.githubusercontent.com/joeyschoblaska/colorschemes/master/output/nightowl.vim) and [iTerm 2](https://raw.githubusercontent.com/joeyschoblaska/neonsmog/master/output/nightowl.itermcolors).
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/nightowl.svg">
+</p>
+
+## nightowl-hd
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/nightowl-hd.svg">
+</p>
