@@ -16,7 +16,7 @@ if version > 580
   endif
 endif
 
-let g:colors_name='neonsmog'
+let g:colors_name='nightowl'
 
 if !(has('termguicolors') && &termguicolors) && !has('gui_running') && &t_Co != 256
   finish
