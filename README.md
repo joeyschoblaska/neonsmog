@@ -22,3 +22,8 @@
 <p align="center">
   <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/nightowl-hd.svg">
 </p>
+
+## candid-hd
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/candid-hd.svg">
+</p>
