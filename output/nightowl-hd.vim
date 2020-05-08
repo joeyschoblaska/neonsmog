@@ -84,19 +84,19 @@ let s:is_dark=(&background == 'dark')
 let s:gb = {}
 
 " fill it with absolute colors
-let s:gb.dark0 = ['#10171D', 234]
-let s:gb.dark1 = ['#22282F', 237]
-let s:gb.dark2 = ['#343B41', 239]
-let s:gb.dark3 = ['#484E55', 241]
-let s:gb.dark4 = ['#5C626A', 243]
+let s:gb.dark0 = ['#0A161F', 234]
+let s:gb.dark1 = ['#22303A', 237]
+let s:gb.dark2 = ['#37444F', 239]
+let s:gb.dark3 = ['#4D5963', 241]
+let s:gb.dark4 = ['#636E78', 243]
 
-let s:gb.gray = ['#71777F', 245]
+let s:gb.gray = ['#848F99', 245]
 
 let s:gb.light0 = ['#E5EAF2', 229]
-let s:gb.light1 = ['#CDD2DA', 223]
-let s:gb.light2 = ['#B5BBC2', 250]
-let s:gb.light3 = ['#9EA4AB', 248]
-let s:gb.light4 = ['#878D95', 246]
+let s:gb.light1 = ['#D4DAE3', 223]
+let s:gb.light2 = ['#C3CBD4', 250]
+let s:gb.light3 = ['#B2BBC6', 248]
+let s:gb.light4 = ['#A1ACB7', 246]
 
 let s:gb.bright_red    = ['#FF4F6C', 167]
 let s:gb.bright_green  = ['#AFE065', 142]
