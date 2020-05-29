@@ -27,3 +27,8 @@
 <p align="center">
   <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/candid-hd.svg">
 </p>
+
+## github
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/github.svg">
+</p>
