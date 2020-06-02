@@ -32,3 +32,8 @@
 <p align="center">
   <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/github.svg">
 </p>
+
+## neoneonsmog
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/neoneonsmog.svg">
+</p>
