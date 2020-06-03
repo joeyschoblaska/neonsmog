@@ -85,26 +85,26 @@ let s:gb = {}
 
 " fill it with absolute colors
 let s:gb.dark0 = ['#151718', 234]
-let s:gb.dark1 = ['#2C2928', 237]
-let s:gb.dark2 = ['#423D3B', 239]
-let s:gb.dark3 = ['#504A45', 241]
-let s:gb.dark4 = ['#695F57', 243]
+let s:gb.dark1 = ['#25292B', 237]
+let s:gb.dark2 = ['#363D3E', 239]
+let s:gb.dark3 = ['#485252', 241]
+let s:gb.dark4 = ['#5C6866', 243]
 
-let s:gb.gray = ['#9D8F82', 245]
+let s:gb.gray = ['#727F79', 245]
 
-let s:gb.light0 = ['#F9F2D6', 229]
-let s:gb.light1 = ['#EAE1C8', 223]
-let s:gb.light2 = ['#DDD1B9', 250]
-let s:gb.light3 = ['#C6BBA6', 248]
-let s:gb.light4 = ['#B8AB9A', 246]
+let s:gb.light0 = ['#FAF4DF', 229]
+let s:gb.light1 = ['#DBDCC9', 223]
+let s:gb.light2 = ['#BEC5B4', 250]
+let s:gb.light3 = ['#A2ADA0', 248]
+let s:gb.light4 = ['#89968D', 246]
 
-let s:gb.bright_red    = ['#F73F29', 167]
-let s:gb.bright_green  = ['#C2C521', 142]
-let s:gb.bright_yellow = ['#F9BA26', 214]
-let s:gb.bright_blue   = ['#7DC6B3', 109]
-let s:gb.bright_purple = ['#E5829D', 175]
-let s:gb.bright_aqua   = ['#97D381', 108]
-let s:gb.bright_orange = ['#FC7B12', 208]
+let s:gb.bright_red    = ['#F63822', 167]
+let s:gb.bright_green  = ['#B0CB1E', 142]
+let s:gb.bright_yellow = ['#FAC321', 214]
+let s:gb.bright_blue   = ['#7DCDC1', 109]
+let s:gb.bright_purple = ['#E87AA2', 175]
+let s:gb.bright_aqua   = ['#95D77D', 108]
+let s:gb.bright_orange = ['#F8760B', 208]
 
 " Setup Emphasis:
 

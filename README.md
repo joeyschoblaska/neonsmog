@@ -3,14 +3,14 @@
 3. Export to SVG.
 4. `bundle exec ruby render.rb`
 
-## gruvbox
-<p align="center">
-  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/gruvbox.svg">
-</p>
-
 ## neonsmog
 <p align="center">
   <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/neonsmog.svg">
+</p>
+
+## gruvbox
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/gruvbox.svg">
 </p>
 
 ## nightowl
@@ -31,9 +31,4 @@
 ## github
 <p align="center">
   <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/github.svg">
-</p>
-
-## neoneonsmog
-<p align="center">
-  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/neoneonsmog.svg">
 </p>
