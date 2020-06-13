@@ -37,3 +37,8 @@
 <p align="center">
   <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/outrun.svg">
 </p>
+
+## win95
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/win95.svg">
+</p>
