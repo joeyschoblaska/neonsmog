@@ -42,3 +42,8 @@
 <p align="center">
   <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/win95.svg">
 </p>
+
+## radium
+<p align="center">
+  <img src="https://github.com/joeyschoblaska/colorschemes/blob/master/palettes/radium.svg">
+</p>
